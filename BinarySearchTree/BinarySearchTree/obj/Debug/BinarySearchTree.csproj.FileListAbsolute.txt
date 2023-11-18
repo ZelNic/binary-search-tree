@@ -1,0 +1,8 @@
+F:\GitHub\binary-search-tree\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+F:\GitHub\binary-search-tree\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+F:\GitHub\binary-search-tree\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+F:\GitHub\binary-search-tree\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.AssemblyReference.cache
+F:\GitHub\binary-search-tree\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.SuggestedBindingRedirects.cache
+F:\GitHub\binary-search-tree\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+F:\GitHub\binary-search-tree\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+F:\GitHub\binary-search-tree\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
